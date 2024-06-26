@@ -1,0 +1,16 @@
+/* src/index.css */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.App {
+  padding: 20px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.box {
+  margin-bottom: 10px;
+}
